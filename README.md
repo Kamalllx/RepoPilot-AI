@@ -1,4 +1,4 @@
-# Smart Resource Integrator Extension
+# RepoPilot AI
 
 **AI-Powered Browser Extension for Automated Open Source Integration**
 
